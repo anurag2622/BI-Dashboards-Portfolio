@@ -1,8 +1,8 @@
 # BI-Dashboards-Portfolio
 A collection of interactive Power BI dashboards designed to provide insights from various datasets. This repository showcases visualizations for business analysis, sales performance, and KPIs. Explore, fork, or contribute to enhance data-driven decision-making with Power BI.
 
-1. Dashboard: ""
-2. 
+1. Dashboard: "SuperStore_Sales_Dashboard"
+
 📋 Description:
 This dashboard is designed for tracking KPIs (Key Performance Indicators) likely related to sales or business performance.
 It features cards showing Total Sales, Total Profit, Total Orders, and other metrics.
@@ -19,7 +19,7 @@ Gives a high-level overview of business performance.
 Helps in quickly identifying which category or region contributes most to profit or orders.
 Time-based comparison aids in tracking monthly/quarterly trends.
 
-🟦 2. Dashboard: ""
+🟦 2. Dashboard: "SuperStore_Sales_Dashboard_2"
 
 📋 Description:
 Appears to focus on sales distribution and order analysis.
@@ -36,7 +36,7 @@ Helps identify regional performance.
 Shows time-based sales growth and highlights top-performing areas.
 Useful for making location-based marketing or logistics decisions.
 
-🟦 3. Dashboard: "Ecommerce Deliveries.png"
+🟦 3. Dashboard: "Ecommerce Deliveries"
 
 📋 Description:
 Focuses on e-commerce delivery analysis, showing metrics like delivery time, order status, city-wise distribution, etc.
